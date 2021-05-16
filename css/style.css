@@ -1,4 +1,25 @@
-.logo-global {
-    width: 220; 
-    height: 80;
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.navbar navbar-expand-lg {
+    background: color #298a08;;
+}
+.quem-somos {
+    background-color: #8181f7;
+    color: white;
+}
+.margin{
+    padding-top: 50px; 
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #818181;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
